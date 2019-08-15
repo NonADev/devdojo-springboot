@@ -27,7 +27,7 @@ public class Student {
     }
 
     @Override
-    public boolean equals(Object o) { //retorna true comparando id com o compo selecionado (pk_id)
+    public boolean equals(Object o) { //retorna true comparando id com o compo selecionado (pk_id).
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Student student = (Student) o;

@@ -15,6 +15,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JRebelWorkspace">
     <option name="jrebelEnabledAutocompile" value="true" />
   </component>
@@ -26,7 +29,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1PEaopwiUHy3RcwG2TNJvu38b2o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -135,7 +140,7 @@
       <workItem from="1565792238711" duration="594000" />
       <workItem from="1565876114273" duration="7577000" />
       <workItem from="1565893780422" duration="536000" />
-      <workItem from="1565895624609" duration="540000" />
+      <workItem from="1565895624609" duration="893000" />
     </task>
     <servers />
   </component>
