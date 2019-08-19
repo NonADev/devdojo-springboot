@@ -1,9 +1,11 @@
 package br.com.devdojo.awesome.model;
 
+import javax.persistence.Entity;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Objects;
+
 
 public class Student {
     private int pk_id;
@@ -23,7 +25,7 @@ public class Student {
     }
 
     private static void studentRepository(){
-        studentList = new ArrayList<Student>(Arrays.asList(new Student(13, "Todorokis"),new Student(13, "Amanatoss"), new Student(22, "Midoriyas")));
+        studentList = new ArrayList<Student>(Arrays.asList(new Student(1, "Todoroki"),new Student(2, "Amanato"), new Student(3, "Midoriya")));
     }
 
     @Override
